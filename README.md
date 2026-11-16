@@ -5,7 +5,7 @@
 **LocalSheet Lite** is a single-file, 100% offline HTML utility for decoding messy CSV/TSV encodings, sniffing delimiters, and finding exact duplicate rows locally in your browser (`file://`)—with **zero uploads, zero installs, zero network requests, and strict CSP (`default-src 'none'` + `script-src 'sha256-...'` without `'unsafe-inline'`)**.
 
 > Need **Native `.xlsx` Multi-Sheet Reading**, **Strict Column Auto-Classification (`>=70%`)**, **Multi-Series Sequence Gap Auditing (`Group Series By`)**, **Excel Destination Presets (`="00412"`)**, **Pre-Export Guard Modal**, **Explicit Ambiguous Date/Amount/Precision Breakdown**, **Control Totals**, **Exceptions Log CSV**, and **JSON v2 Profiles**?
-> Those capabilities are part of **LocalSheet Auditor (Full Version)** *(a local technical support tool — does not replace formal accounting or tax review)*.
+> Those capabilities are part of **[LocalSheet Auditor (Full Version)](https://cesahz.gumroad.com/l/localsheet-auditor)** *(a local technical support tool — does not replace formal accounting or tax review)*.
 
 ---
 

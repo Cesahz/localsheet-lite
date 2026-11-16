@@ -5,7 +5,7 @@
 **LocalSheet Lite** es una utilidad en un único archivo HTML, 100% offline, para detectar codificaciones en archivos CSV/TSV, inferir delimitadores y encontrar filas duplicadas exactas directamente en tu navegador (`file://`), con **cero subidas, cero instalaciones, cero peticiones de red y CSP estricto (`default-src 'none'` + `script-src 'sha256-...'` sin `'unsafe-inline'`)**.
 
 > ¿Buscas **Lector nativo `.xlsx` multi-hoja**, **Clasificación automática de columnas (`>=70%`)**, **Auditoría de correlatividad multi-serie (`Agrupar serie por`)**, **Presets para Excel (`="00412"`)**, **Guardián pre-exportación**, **Desglose explícito de fechas/montos ambiguos y precisión**, **Totales de control**, **Registro de excepciones CSV** y **Perfiles JSON v2**?
-> Esas funciones forman parte de **LocalSheet Auditor (Versión Completa)** *(herramienta técnica de apoyo local en memoria; no reemplaza una auditoría contable o tributaria oficial)*.
+> Esas funciones forman parte de **[LocalSheet Auditor (Versión Completa)](https://cesahz.gumroad.com/l/localsheet-auditor)** *(herramienta técnica de apoyo local en memoria; no reemplaza una auditoría contable o tributaria oficial)*.
 
 ---
 
